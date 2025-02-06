@@ -1,3 +1,4 @@
+![logo](https://github.com/priya-af/priya-af/blob/main/1.png)
 # 💫 About Me:
 👀 I’m interested in Data Science<br><br>💞️ I’m looking to collaborate on various projects<br><br>🌱 I’m currently learning Full Stack Development<br><br>📄 Know about my experiences: https://drive.google.com/file/d/1JTkc7uW3WphqW-5qEAtfkja0bsBtHXpj/view?usp=sharing<br><br>⚡ Fun fact: 🐛 I debug more than I code
 
