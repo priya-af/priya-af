@@ -1,3 +1,4 @@
+![logo](https://github.com/priya-af/priya-af/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Priya Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
